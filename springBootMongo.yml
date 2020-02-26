@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: localhost:5000/spring-boot:latest
+      - image: 817350780775.dkr.ecr.us-east-1.amazonaws.com/poc1:latest
         name: springboot
         ports:
         - name: springboot
