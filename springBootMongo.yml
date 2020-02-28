@@ -18,7 +18,7 @@ spec:
         - name: springboot
           containerPort: 8080      
 ---
-# Spring Node Port Service
+# Spring Node Service
 apiVersion: v1
 kind: Service
 metadata:
